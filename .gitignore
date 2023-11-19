@@ -1,0 +1,10 @@
+# Ignore video files
+*.mp4
+*.avi
+
+# Ignore image files
+*.pgm
+*.jpg
+
+# Ignore .npy
+*.npy
